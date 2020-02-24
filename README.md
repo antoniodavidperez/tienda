@@ -1,2 +1,1 @@
-# tienda
-Odoo tienda
+# Odoo tienda
